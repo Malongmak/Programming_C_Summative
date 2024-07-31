@@ -3,6 +3,8 @@
 ## Overview
 
 This project involves a series of tasks to assess your skills in various aspects of programming in C and related technologies. The assessment is designed to evaluate your ability to manipulate strings, use function pointers, handle multithreading, work with file systems, and write bash scripts.
+![Project Logo](./remote/Remote_Control.jpg)
+
 
 ### Assessment Outcomes
 
